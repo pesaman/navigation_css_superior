@@ -1,0 +1,54 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+
+
+ul {
+  background: #F4F4F4;
+  border: 0px solid #7C7C7C;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+   background-color: #A9A9A9;
+
+}
+ul li a {
+  color: #333;
+  display: block;
+  padding: .7em;
+  text-decoration: none;
+  color:#fff;
+  margin: 10 auto;
+  width: 173px;
+}
+
+ul li {
+  float: left;
+  width: 25%;
+
+}
+
+ li {
+ float:center;
+ position:relative;
+ right:-7%;
+ font-family: 'Arial';
+ font-size:15px;
+}
+        
+
+
+  
